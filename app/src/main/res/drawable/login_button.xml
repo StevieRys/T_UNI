@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingBottom="@dimen/small_padding"
+    android:paddingLeft="@dimen/small_padding"
+    android:paddingRight="@dimen/small_padding"
+    android:paddingTop="@dimen/small_padding">
+
+    <item>
+        <shape>
+            <solid android:color="@android:color/white" />
+            <stroke android:width="2dp" android:color="@color/login_button_color"/>
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+
+</layer-list>

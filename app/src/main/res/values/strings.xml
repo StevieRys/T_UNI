@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">t_uni</string>
+    <string name="login_username_hint">Correo institucional</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="login_forgot_password">Olvidé mi contraseña</string>
+    <string name="login_sign_up">¿No tienes una cuenta? ¡Registrate!</string>
+</resources>
